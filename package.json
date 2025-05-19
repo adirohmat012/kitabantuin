@@ -1,0 +1,17 @@
+{
+  "name": "kitabantu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@egoist/tailwindcss-icons": "^1.9.0",
+    "@iconify-json/material-symbols": "^1.2.20",
+    "tailwindcss": "^3.4.3"
+  }
+}
